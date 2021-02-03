@@ -1,4 +1,5 @@
 /*
+  Requires base project dependency 'winston-daily-rotate-file' (npm i winston-daily-rotate-file --save)
   Requires config.js present in base project directory with the following variables:
 
   exports.NODE_ENV = process.env.NODE_ENV || 'dev'; // if not 'production' console logging enabled
