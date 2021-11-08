@@ -1,6 +1,6 @@
 {
   "name": "tsanford-logger",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Winston configuration with rotating log files and local timestamps",
   "main": "index.js",
   "scripts": {
@@ -10,10 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/TitanXV4000/tsanford-logger.git"
   },
-  "author": "",
+  "author": "jwalker",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TitanXV4000/tsanford-logger/issues"
-  },
-  "homepage": "https://github.com/TitanXV4000/tsanford-logger#readme"
+  "dependencies": {
+    "moment-timezone": "^0.5.32",
+    "winston": "^3.3.3"
+  }
 }
