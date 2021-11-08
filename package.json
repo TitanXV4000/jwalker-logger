@@ -1,6 +1,6 @@
 {
-  "name": "jwalker-logger",
-  "version": "0.0.2",
+  "name": "tsanford-logger",
+  "version": "1.0.0",
   "description": "Winston configuration with rotating log files and local timestamps",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TitanXV4000/jwalker-logger.git"
+    "url": "git+https://github.com/TitanXV4000/tsanford-logger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TitanXV4000/jwalker-logger/issues"
+    "url": "https://github.com/TitanXV4000/tsanford-logger/issues"
   },
-  "homepage": "https://github.com/TitanXV4000/jwalker-logger#readme"
+  "homepage": "https://github.com/TitanXV4000/tsanford-logger#readme"
 }
