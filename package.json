@@ -1,16 +1,19 @@
 {
   "name": "jwalker-logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Winston configuration with rotating log files and local timestamps",
   "main": "index.js",
-  "repository": "https://github.com/johndwalker/jwalker-logger",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "jwalker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TitanXV4000/jwalker-logger.git"
+  },
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "moment-timezone": "^0.5.32",
-    "winston": "^3.3.3"
-  }
+  "bugs": {
+    "url": "https://github.com/TitanXV4000/jwalker-logger/issues"
+  },
+  "homepage": "https://github.com/TitanXV4000/jwalker-logger#readme"
 }
